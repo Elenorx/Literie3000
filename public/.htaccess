@@ -1,0 +1,4 @@
+# Activer le module de réécriture d'url
+RewriteEngine on
+
+# Lister les diffèrents règles de réécriture
